@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.nav{
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+}
+.nav a{
+  padding: 2%;
+  color: white;
+  text-decoration: none;
+
+}
+.signin{
+  align-content: center;
+}
